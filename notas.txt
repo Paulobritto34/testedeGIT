@@ -1,0 +1,1 @@
+Nesse modulo aprendemos instalar o GIT e subir um projeito pro github atráves do git local
